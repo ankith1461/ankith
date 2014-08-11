@@ -1,0 +1,5 @@
+C:\Users\dell\Desktop\LINQ to XML\LX_1\add_xml\bin\Debug\add_xml.exe
+C:\Users\dell\Desktop\LINQ to XML\LX_1\add_xml\bin\Debug\add_xml.pdb
+C:\Users\dell\Desktop\LINQ to XML\LX_1\add_xml\obj\x86\Debug\add_xml.exe
+C:\Users\dell\Desktop\LINQ to XML\LX_1\add_xml\obj\x86\Debug\add_xml.pdb
+C:\Users\dell\Desktop\LINQ to XML\LX_1\add_xml\obj\x86\Debug\add_xml.csprojResolveAssemblyReference.cache

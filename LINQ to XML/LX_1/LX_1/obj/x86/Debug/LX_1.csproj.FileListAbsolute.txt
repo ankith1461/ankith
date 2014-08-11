@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\LINQ to XML\LX_1\LX_1\bin\Debug\LX_1.exe
+C:\Users\dell\Desktop\LINQ to XML\LX_1\LX_1\bin\Debug\LX_1.pdb
+C:\Users\dell\Desktop\LINQ to XML\LX_1\LX_1\obj\x86\Debug\LX_1.exe
+C:\Users\dell\Desktop\LINQ to XML\LX_1\LX_1\obj\x86\Debug\LX_1.pdb
+C:\Users\dell\Desktop\LINQ to XML\LX_1\LX_1\bin\Debug\LX_1.exe.config
+C:\Users\dell\Desktop\LINQ to XML\LX_1\LX_1\obj\x86\Debug\LX_1.csprojResolveAssemblyReference.cache

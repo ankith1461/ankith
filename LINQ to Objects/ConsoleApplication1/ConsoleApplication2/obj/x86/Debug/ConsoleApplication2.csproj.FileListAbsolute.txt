@@ -1,0 +1,4 @@
+C:\Users\dell\Desktop\LINQ to Objects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\dell\Desktop\LINQ to Objects\ConsoleApplication1\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\dell\Desktop\LINQ to Objects\ConsoleApplication1\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.exe
+C:\Users\dell\Desktop\LINQ to Objects\ConsoleApplication1\ConsoleApplication2\obj\x86\Debug\ConsoleApplication2.pdb

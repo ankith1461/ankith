@@ -1,0 +1,4 @@
+C:\Users\dell\Desktop\Extensions\Ext_example\Ext_example\bin\Debug\Ext_example.exe
+C:\Users\dell\Desktop\Extensions\Ext_example\Ext_example\bin\Debug\Ext_example.pdb
+C:\Users\dell\Desktop\Extensions\Ext_example\Ext_example\obj\x86\Debug\Ext_example.exe
+C:\Users\dell\Desktop\Extensions\Ext_example\Ext_example\obj\x86\Debug\Ext_example.pdb
