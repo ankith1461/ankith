@@ -23,6 +23,7 @@ namespace ConsoleApplication1
                     // sort by length
                     var s3 = names.OrderBy(s => s.Length);
                     var s4 = names.OrderByDescending(s => s.Length);
+                    var s5 = names.OrderBy(f => f.Length).ThenByDescending(f => f);
 
                     
                      
@@ -33,6 +34,12 @@ namespace ConsoleApplication1
                      Console.Write("---Ordering by DESC in LINQ---\n");
                      
                              foreach (var s in s4)
+                             {
+                                 Console.WriteLine(s);
+                             }
+                    Console.Write("---First by length then by DESC in LINQ---\n");
+                     
+                             foreach (var s in s5)
                              {
                                  Console.WriteLine(s);
                              }

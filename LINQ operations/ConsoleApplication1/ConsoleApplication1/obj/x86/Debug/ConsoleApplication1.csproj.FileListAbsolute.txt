@@ -2,3 +2,4 @@ C:\Users\dell\Desktop\LINQ operations\ConsoleApplication1\ConsoleApplication1\bi
 C:\Users\dell\Desktop\LINQ operations\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 C:\Users\dell\Desktop\LINQ operations\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
 C:\Users\dell\Desktop\LINQ operations\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\dell\Desktop\LINQ operations\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
